@@ -10,3 +10,6 @@ The aim of this project is to build a multi-section landing page, with a dynamic
 2.	CSS
 3.	Javascript
 
+## Live View
+
+Check out a live view of the landing page here: https://josephofori21.github.io/Landing-Page/
